@@ -5,11 +5,9 @@ import Chart from "react-google-charts";
 
 
 const App = () => {
-
-  //this part of the code containes the ID and KEY we got from the API
-  //basically this is the pass to the API, when we call it, it will know who is making the request
-  const APP_ID ="3d9e2374";
-  const APP_KEY ="aa0aa56874b38d522ff4560ef38307dd";
+//https://www.edamam.com/
+  const APP_ID ="6d59d0a7";
+  const APP_KEY ="a36b6f631ff585bf022749b1752a322c";
 
   //useState basically adds a state to our funtional components
   //this means that our recipes, search, and query have an initial state
